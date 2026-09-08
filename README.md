@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://camilasabino.dev"><img src="https://img.shields.io/badge/portfolio-camilasabino.dev-14b8a6?style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/camilasabino/"><img src="https://img.shields.io/badge/LinkedIn-connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://camilasabino.dev"><img src="https://img.shields.io/badge/camilasabino.dev-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
