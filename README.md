@@ -29,6 +29,9 @@ Outside of code, I enjoy running (road and trail) and mountaineering — among o
 - **Promotions** — designed a dedicated promotions domain with combination rules and a public discounts API for third-party partners.
 - **Store Activity Logs** — designed and implemented an end-to-end, cross-cutting audit service adopted across multiple domains.
 
+<p align="center">
+  <a href="https://camilasabino.dev/#experience"><b>View full experience</b>
+</p>
 ---
 
 ### Tech Stack
@@ -78,7 +81,7 @@ Outside of code, I enjoy running (road and trail) and mountaineering — among o
 I'm open to Software Engineering opportunities, especially in backend, distributed systems, and software architecture. I'm also interested in compelling technical projects and collaborations.
 
 <p align="center">
-  <a href="https://camilasabino.dev"><b>Download CV</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/camilasabino/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="https://camilasabino.dev"><b>Portfolio</b></a>
+  <a href="https://camilasabino.dev/cv/Camila-Sabino-CV-EN.pdf"><b>Download CV</b></a> &nbsp;·&nbsp; 
+  <a href="https://www.linkedin.com/in/camilasabino"><b>LinkedIn</b></a> &nbsp;·&nbsp; 
+  <a href="https://camilasabino.dev/#contact"><b>Contact me</b></a> 
 </p>
