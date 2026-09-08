@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://camilasabino.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/camilasabino.dev-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://camilasabino.dev"><img src="https://img.shields.io/badge/camilasabino.dev-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
 
 ### About me
 
-I'm a Software Engineer with 8+ years of experience building and evolving production software, focused on **backend, distributed systems, and software architecture**.
+I'm a Software Engineer with 8+ years of experience building and evolving production software, focused on backend, distributed systems, and software architecture.
 
 Throughout my career I've worked on APIs, microservices, event-driven systems, and integrations — from design and implementation to evolving complex products at scale.
 
@@ -30,7 +30,7 @@ Outside of code, I enjoy running (road and trail) and mountaineering — among o
 - **Store Activity Logs** — designed and implemented an end-to-end, cross-cutting audit service adopted across multiple domains.
 
 <p align="center">
-  <a href="https://camilasabino.dev/#experience" target="_blank" rel="noopener noreferrer"><b>View full experience</b>
+  <a href="https://camilasabino.dev/#experience"><b>View full experience</b>
 </p>
 ---
 
@@ -81,7 +81,7 @@ Outside of code, I enjoy running (road and trail) and mountaineering — among o
 I'm open to Software Engineering opportunities, especially in backend, distributed systems, and software architecture. I'm also interested in compelling technical projects and collaborations.
 
 <p align="center">
-  <a href="https://camilasabino.dev/cv/Camila-Sabino-CV-EN.pdf" target="_blank" rel="noopener noreferrer"><b>Download CV</b></a> &nbsp;·&nbsp; 
-  <a href="https://www.linkedin.com/in/camilasabino" target="_blank" rel="noopener noreferrer"><b>LinkedIn</b></a> &nbsp;·&nbsp; 
-  <a href="https://camilasabino.dev/#contact" target="_blank" rel="noopener noreferrer"><b>Contact me</b></a> 
+  <a href="https://camilasabino.dev/cv/Camila-Sabino-CV-EN.pdf"><b>Download CV</b></a> &nbsp;·&nbsp; 
+  <a href="https://www.linkedin.com/in/camilasabino"><b>LinkedIn</b></a> &nbsp;·&nbsp; 
+  <a href="https://camilasabino.dev/#contact"><b>Contact me</b></a> 
 </p>
