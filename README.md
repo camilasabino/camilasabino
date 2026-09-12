@@ -22,19 +22,6 @@ Outside of code, I enjoy running (road and trail) and mountaineering — among o
 
 ---
 
-### What I've worked on
-
-- **Payments** — led the evolution of a payments architecture with native integrations across 30+ payment methods spanning Argentina, Brazil, Colombia, and Chile.
-- **Account & Security** — helped build a dedicated domain for account security, authentication, permissions, and session management, including 2FA.
-- **Promotions** — designed a dedicated promotions domain with combination rules and a public discounts API for third-party partners.
-- **Store Activity Logs** — designed and implemented an end-to-end, cross-cutting audit service adopted across multiple domains.
-
-<p align="center">
-  <a href="https://camilasabino.dev/#experience"><b>View full experience</b>
-</p>
-    
----
-
 ### Tech Stack
 
 **Backend**
