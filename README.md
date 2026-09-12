@@ -16,7 +16,7 @@ Throughout my career I've worked on APIs, microservices, event-driven systems, a
 
 I approach engineering with a product mindset: understand the problem first, make technical trade-offs explicit, and design systems that can evolve over time.
 
-I've also added Claude Code's ecosystem to my skill set — MCP servers, subagents, spec-driven development, and prompt engineering for AI-assisted development.
+I’ve also integrated AI into my Software Engineering practice, not just as a productivity tool, but as a new way to think about, design, and build software.
 
 Outside of code, I enjoy running (road and trail) and mountaineering — among other things, I reached the summit of Aconcagua.
 
