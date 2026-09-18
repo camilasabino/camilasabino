@@ -10,22 +10,16 @@
 
 ### About me
 
-Software Engineer with 8+ years of experience building and evolving production software, with a focus on backend systems, distributed systems, and software architecture.
-
-I approach engineering with a product mindset: understanding the problem first, making technical trade-offs explicit, and balancing business needs with simplicity and long-term maintainability.
-
-<p align="center">
-  <a href="https://camilasabino.dev/en"><b>Professional Experience & Tech Stack</b></a>
-</p>
+Software Engineer with 8+ years of experience building and evolving production software. I combine full-stack development with a strong foundation in backend systems, distributed systems, and software architecture, taking end-to-end ownership from design through production operations.
 
 ---
 
 ### Get in touch
 
-I'm open to Software Engineering opportunities, especially in backend, distributed systems, software architecture, and end-to-end product engineering. I'm also interested in compelling technical projects and collaborations.
+I'm open to Software Engineering opportunities in full-stack development, backend, distributed systems, and software architecture. I'm also interested in projects and collaborations related to AI Engineering.
 
 <p align="center">
+    <a href="https://www.linkedin.com/in/camilasabino"><b>LinkedIn</b></a> &nbsp;·&nbsp; 
   <a href="https://camilasabino.dev/cv/Camila-Sabino-CV-EN.pdf"><b>Download CV</b></a> &nbsp;·&nbsp; 
-  <a href="https://www.linkedin.com/in/camilasabino"><b>LinkedIn</b></a> &nbsp;·&nbsp; 
   <a href="https://camilasabino.dev/#contact"><b>Contact me</b></a> 
 </p>
