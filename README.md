@@ -21,5 +21,5 @@ I'm open to Software Engineering opportunities in full-stack development, backen
 <p align="center">
     <a href="https://www.linkedin.com/in/camilasabino"><b>LinkedIn</b></a> &nbsp;·&nbsp; 
   <a href="https://camilasabino.dev/cv/Camila-Sabino-CV-EN.pdf"><b>Download CV</b></a> &nbsp;·&nbsp; 
-  <a href="https://camilasabino.dev/#contact"><b>Contact me</b></a> 
+  <a href="https://camilasabino.dev/en/about-me/#contact"><b>Contact me</b></a> 
 </p>
