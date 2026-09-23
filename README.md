@@ -8,7 +8,7 @@
   <img alt="Full-stack" src="https://img.shields.io/badge/Full--stack-4b5563?style=flat-square" />
   <img alt="Backend" src="https://img.shields.io/badge/Backend-4b5563?style=flat-square" />
   <img alt="Distributed systems" src="https://img.shields.io/badge/Distributed_systems-4b5563?style=flat-square" />
-  <img alt="Architecture" src="https://img.shields.io/badge/Architecture-4b5563?style=flat-square" />
+  <img alt="AI Engineering" src="https://img.shields.io/badge/Architecture-4b5563?style=flat-square" />
 </p>
 
 <p>
