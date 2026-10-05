@@ -17,11 +17,9 @@
 
 ## About me
 
-Senior Software Engineer with 8+ years of experience building software end to end, combining full-stack delivery with depth in backend, distributed systems, and architecture. Technical leadership and product collaboration from design to production. In my personal projects, I apply AI Engineering to integrate LLM-powered capabilities into software products.
+I enjoy building software, solving complex problems, and turning ideas into thoughtful, scalable products. Always learning, exploring, and looking for better ways to build.
 
 ## Get in touch
-
-I'm open to Software Engineering opportunities that combine technical depth with end-to-end ownership.
 
 <p>
   <a href="https://www.linkedin.com/in/camilasabino"><img alt="LinkedIn" src="assets/link-linkedin.svg" /></a>
