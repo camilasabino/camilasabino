@@ -12,19 +12,19 @@
 </p>
 
 <p>
-  <a href="https://camilasabino.dev/en"><img alt="camilasabino.dev" src="assets/link-website.svg" /></a>
+  <a href="https://camilasabino.dev"><img alt="camilasabino.dev" src="assets/link-website.svg" /></a>
 </p>
 
 ## About me
 
-I enjoy building software, solving complex problems, and turning ideas into thoughtful, scalable products. Always learning, exploring, and looking for better ways to build.
+I enjoy solving problems, building software, and seeing ideas come to life.
 
 ## Get in touch
 
 <p>
   <a href="https://www.linkedin.com/in/camilasabino"><img alt="LinkedIn" src="assets/link-linkedin.svg" /></a>
   &nbsp;
-  <a href="https://camilasabino.dev/cv/Camila-Sabino-CV-EN.pdf"><img alt="Download CV" src="assets/link-cv.svg" /></a>
+  <a href="https://camilasabino.dev/cv/Camila_Sabino_Software_Engineer_Resume.pdf"><img alt="Download CV" src="assets/link-cv.svg" /></a>
   &nbsp;
-  <a href="https://camilasabino.dev/en/#contact"><img alt="Contact me" src="assets/link-contact.svg" /></a>
+  <a href="https://camilasabino.dev/#contact"><img alt="Contact me" src="assets/link-contact.svg" /></a>
 </p>
