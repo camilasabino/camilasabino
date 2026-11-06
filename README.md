@@ -1,6 +1,6 @@
 <p>
   <a href="https://camilasabino.dev/en">
-    <img src="assets/banner.svg" alt="Hi, I'm Camila Sabino. Software Engineer · Argentina." width="100%" />
+    <img src="assets/banner.svg" alt="Hi, I’m Camila Sabino, a Software Engineer based in Buenos Aires.”" width="100%" />
   </a>
 </p>
 
